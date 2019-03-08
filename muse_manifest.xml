@@ -1,79 +1,121 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1551962924545">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1552047579668">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="virus.css" crc="53879916" ref="virus"/>
+    <file name="virus.css" crc="169029602" ref="virus"/>
+    <file name="virus_slide.css" crc="4130767596" ref="virus_slide"/>
     <file name="index.css" crc="3884054874" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:virus"/>
-    <file name="museutils.js" crc="3803043152" ref="index:virus"/>
-    <file name="whatinput.js" crc="86476730" ref="index:virus"/>
-    <file name="museconfig.js" crc="380897831" ref="index:virus"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:virus"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:virus"/>
-    <file name="require.js" crc="4157109226" ref="index:virus"/>
-    <file name="webpro.js" crc="242022427" ref="virus"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="virus"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="virus"/>
-    <file name="touchswipe.js" crc="4066113679" ref="virus"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:virus:virus_slide"/>
+    <file name="museutils.js" crc="3803043152" ref="index:virus:virus_slide"/>
+    <file name="whatinput.js" crc="86476730" ref="index:virus:virus_slide"/>
+    <file name="museconfig.js" crc="380897831" ref="index:virus:virus_slide"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:virus:virus_slide"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:virus:virus_slide"/>
+    <file name="require.js" crc="4157109226" ref="index:virus:virus_slide"/>
+    <file name="webpro.js" crc="242022427" ref="virus:virus_slide"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="virus:virus_slide"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="virus:virus_slide"/>
+    <file name="touchswipe.js" crc="4066113679" ref="virus:virus_slide"/>
   </folder>
   <folder name="images">
     <file name="home_page-favicon.ico" crc="31782159" ref="index"/>
-    <file name="ывфыв.jpg" crc="4211543653" ref="index:virus">
+    <file name="ывфыв.jpg" crc="4211543653" ref="index:virus:virus_slide">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u12906-4.png" crc="39876522" ref="index"/>
-    <file name="u15210-4.png" crc="341021293" ref="index"/>
-    <file name="u15220-4.png" crc="4222541744" ref="index"/>
-    <file name="u15229-4.png" crc="4277200510" ref="index"/>
-    <file name="u15238-4.png" crc="382871139" ref="index"/>
-    <file name="u15247-4.png" crc="23033701" ref="index"/>
-    <file name="u15251-4.png" crc="3817290799" ref="index"/>
-    <file name="u15254-4.png" crc="4173605321" ref="index"/>
-    <file name="u15256-4.png" crc="337228698" ref="index"/>
-    <file name="u15283-4.png" crc="4192981819" ref="index"/>
-    <file name="u15287-4.png" crc="169899631" ref="index"/>
-    <file name="u15290-4.png" crc="333033849" ref="index"/>
-    <file name="u15292-4.png" crc="3879531218" ref="index"/>
-    <file name="u15319-4.png" crc="3904045860" ref="index"/>
-    <file name="u15323-4.png" crc="216880739" ref="index"/>
-    <file name="u15326-4.png" crc="183890075" ref="index"/>
-    <file name="u15328-4.png" crc="237469079" ref="index"/>
+    <file name="u12906-4.png" crc="4051816889" ref="index"/>
+    <file name="u15210-4.png" crc="196339673" ref="index"/>
+    <file name="u15220-4.png" crc="238331693" ref="index"/>
+    <file name="u15229-4.png" crc="159045675" ref="index"/>
+    <file name="u15238-4.png" crc="4150944692" ref="index"/>
+    <file name="u15247-4.png" crc="406010006" ref="index"/>
+    <file name="u15251-4.png" crc="3910330630" ref="index"/>
+    <file name="u15254-4.png" crc="4183851234" ref="index"/>
+    <file name="u15256-4.png" crc="43350429" ref="index"/>
+    <file name="u15283-4.png" crc="4219207353" ref="index"/>
+    <file name="u15287-4.png" crc="3991055773" ref="index"/>
+    <file name="u15290-4.png" crc="238601585" ref="index"/>
+    <file name="u15292-4.png" crc="3794203099" ref="index"/>
+    <file name="u15319-4.png" crc="23180399" ref="index"/>
+    <file name="u15323-4.png" crc="4170418279" ref="index"/>
+    <file name="u15326-4.png" crc="514547615" ref="index"/>
+    <file name="u15328-4.png" crc="13617910" ref="index"/>
     <file name="1506037543_3050-krab.gif" crc="166686763" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u15376-4.png" crc="241393938" ref="index"/>
+    <file name="u15376-4.png" crc="402481385" ref="index"/>
     <file name="virus-favicon.ico" crc="31782159" ref="virus"/>
-    <file name="u16227-4.png" crc="39876522" ref="virus"/>
-    <file name="u16487-4.png" crc="341021293" ref="virus"/>
-    <file name="u16434-4.png" crc="4222541744" ref="virus"/>
-    <file name="u16560-4.png" crc="4277200510" ref="virus"/>
-    <file name="u16532-4.png" crc="382871139" ref="virus"/>
-    <file name="u16478-4.png" crc="23033701" ref="virus"/>
-    <file name="u16460-4.png" crc="3817290799" ref="virus"/>
-    <file name="u16437-4.png" crc="4173605321" ref="virus"/>
-    <file name="u16431-4.png" crc="337228698" ref="virus"/>
-    <file name="u16495-4.png" crc="4192981819" ref="virus"/>
-    <file name="u16483-4.png" crc="169899631" ref="virus"/>
-    <file name="u16443-4.png" crc="333033849" ref="virus"/>
-    <file name="u16425-4.png" crc="3879531218" ref="virus"/>
-    <file name="u16499-4.png" crc="3904045860" ref="virus"/>
-    <file name="u16467-4.png" crc="216880739" ref="virus"/>
-    <file name="u16449-4.png" crc="183890075" ref="virus"/>
-    <file name="u16418-4.png" crc="237469079" ref="virus"/>
-    <file name="u16404-4.png" crc="4059888481" ref="virus"/>
+    <file name="u16227-4.png" crc="4051816889" ref="virus"/>
+    <file name="u16487-4.png" crc="196339673" ref="virus"/>
+    <file name="u16434-4.png" crc="238331693" ref="virus"/>
+    <file name="u16560-4.png" crc="159045675" ref="virus"/>
+    <file name="u16532-4.png" crc="4150944692" ref="virus"/>
+    <file name="u16478-4.png" crc="406010006" ref="virus"/>
+    <file name="u16460-4.png" crc="3910330630" ref="virus"/>
+    <file name="u16437-4.png" crc="4183851234" ref="virus"/>
+    <file name="u16431-4.png" crc="43350429" ref="virus"/>
+    <file name="u16495-4.png" crc="4219207353" ref="virus"/>
+    <file name="u16483-4.png" crc="3991055773" ref="virus"/>
+    <file name="u16443-4.png" crc="238601585" ref="virus"/>
+    <file name="u16425-4.png" crc="3794203099" ref="virus"/>
+    <file name="u16499-4.png" crc="23180399" ref="virus"/>
+    <file name="u16467-4.png" crc="4170418279" ref="virus"/>
+    <file name="u16449-4.png" crc="514547615" ref="virus"/>
+    <file name="u16418-4.png" crc="13617910" ref="virus"/>
+    <file name="u16404-4.png" crc="3759323721" ref="virus"/>
     <file name="kompyuternyy-virus-animatsionnaya-kartinka-0001.gif" crc="284457387" seo="true" ref="virus">
       <caption webpage="virus" alt=""/>
     </file>
-    <file name="ы.jpg" crc="477453380" seo="true" ref="virus">
+    <file name="ы662x287.jpg" crc="86345317" seo="true" ref="virus">
       <caption webpage="virus" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="virus"/>
-    <file name="ы2.jpg" crc="453055038" seo="true" ref="virus">
+    <file name="ы.jpg" crc="449275072" seo="true" ref="virus">
       <caption webpage="virus" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="virus"/>
+    <file name="virus_slide-favicon.ico" crc="31782159" ref="virus_slide"/>
+    <file name="u17299-4.png" crc="4051816889" ref="virus_slide"/>
+    <file name="u17024-4.png" crc="196339673" ref="virus_slide"/>
+    <file name="u16918-4.png" crc="238331693" ref="virus_slide"/>
+    <file name="u17039-4.png" crc="3887716773" ref="virus_slide"/>
+    <file name="u17055-4.png" crc="4150944692" ref="virus_slide"/>
+    <file name="u16986-4.png" crc="406010006" ref="virus_slide"/>
+    <file name="u16959-4.png" crc="3910330630" ref="virus_slide"/>
+    <file name="u16946-4.png" crc="4183851234" ref="virus_slide"/>
+    <file name="u17065-4.png" crc="43350429" ref="virus_slide"/>
+    <file name="u16939-4.png" crc="4219207353" ref="virus_slide"/>
+    <file name="u17068-4.png" crc="3991055773" ref="virus_slide"/>
+    <file name="u17010-4.png" crc="238601585" ref="virus_slide"/>
+    <file name="u17003-4.png" crc="3794203099" ref="virus_slide"/>
+    <file name="u16974-4.png" crc="23180399" ref="virus_slide"/>
+    <file name="u16991-4.png" crc="4170418279" ref="virus_slide"/>
+    <file name="u17048-4.png" crc="514547615" ref="virus_slide"/>
+    <file name="u16955-4.png" crc="13617910" ref="virus_slide"/>
+    <file name="anti virus.gif" crc="30517710" seo="true" ref="virus_slide">
+      <caption webpage="virus_slide" alt=""/>
+    </file>
+    <file name="u16940-4.png" crc="4081925902" ref="virus_slide"/>
+    <file name="вставленное изображение 400x268.jpg" crc="159407963" seo="true" ref="virus_slide">
+      <caption webpage="virus_slide" alt=""/>
+    </file>
+    <file name="вставленное изображение 530x253.jpg" crc="141764451" seo="true" ref="virus_slide">
+      <caption webpage="virus_slide" alt=""/>
+    </file>
+    <file name="вставленное изображение 480x360.jpg" crc="167105394" seo="true" ref="virus_slide">
+      <caption webpage="virus_slide" alt=""/>
+    </file>
+    <file name="вставленное изображение 551x643.jpg" crc="16457062" seo="true" ref="virus_slide">
+      <caption webpage="virus_slide" alt=""/>
+    </file>
+    <file name="вставленное изображение 640x375.jpg" crc="72232414" seo="true" ref="virus_slide">
+      <caption webpage="virus_slide" alt=""/>
+    </file>
+    <file name="вставленное изображение 267x168.jpg" crc="252533885" seo="true" ref="virus_slide">
+      <caption webpage="virus_slide" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="285687132" seo="true" mt="1551962844173" redirect="true"/>
-  <file name="virus.html" crc="138830089" seo="true" mt="1551962830072" redirect="true"/>
+  <file name="index.html" crc="404260352" seo="true" mt="1551962844173" redirect="true"/>
+  <file name="virus.html" crc="141519520" seo="true" mt="1552029265938" redirect="true"/>
+  <file name="virus_slide.html" crc="3795701030" seo="true" mt="1552027963376" redirect="true"/>
 </manifest>

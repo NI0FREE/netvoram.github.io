@@ -11,17 +11,44 @@
   </url>
   <url>
     <loc>http://ni0free.github.io/virus.html</loc>
-    <lastmod>2019-03-07</lastmod>
+    <lastmod>2019-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ni0free.github.io/images/kompyuternyy-virus-animatsionnaya-kartinka-0001.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ni0free.github.io/images/%D1%8B.jpg</image:loc>
+      <image:loc>http://ni0free.github.io/images/%D1%8B662x287.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ni0free.github.io/images/%D1%8B2.jpg</image:loc>
+      <image:loc>http://ni0free.github.io/images/%D1%8B.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/virus_slide.html</loc>
+    <lastmod>2019-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/anti%20virus.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20400x268.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20530x253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20480x360.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20551x643.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20640x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20267x168.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
