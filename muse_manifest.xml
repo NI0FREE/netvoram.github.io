@@ -1,26 +1,28 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1552047579668">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1552299150157">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4139035676" ref="index"/>
     <file name="virus.css" crc="169029602" ref="virus"/>
+    <file name="prop.css" crc="4014663159" ref="prop"/>
     <file name="virus_slide.css" crc="4130767596" ref="virus_slide"/>
-    <file name="index.css" crc="3884054874" ref="index"/>
+    <file name="lie.css" crc="4060669369" ref="lie"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:virus:virus_slide"/>
-    <file name="museutils.js" crc="3803043152" ref="index:virus:virus_slide"/>
-    <file name="whatinput.js" crc="86476730" ref="index:virus:virus_slide"/>
-    <file name="museconfig.js" crc="380897831" ref="index:virus:virus_slide"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:virus:virus_slide"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:virus:virus_slide"/>
-    <file name="require.js" crc="4157109226" ref="index:virus:virus_slide"/>
-    <file name="webpro.js" crc="242022427" ref="virus:virus_slide"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="virus:virus_slide"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="virus:virus_slide"/>
-    <file name="touchswipe.js" crc="4066113679" ref="virus:virus_slide"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="museutils.js" crc="3803043152" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="whatinput.js" crc="86476730" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="museconfig.js" crc="380897831" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="require.js" crc="4157109226" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="webpro.js" crc="242022427" ref="virus:virus_slide:lie:prop"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="virus:virus_slide:lie:prop"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="virus:virus_slide:lie:prop"/>
+    <file name="touchswipe.js" crc="4066113679" ref="virus:virus_slide:lie:prop"/>
   </folder>
   <folder name="images">
     <file name="home_page-favicon.ico" crc="31782159" ref="index"/>
-    <file name="ывфыв.jpg" crc="4211543653" ref="index:virus:virus_slide">
+    <file name="ывфыв.jpg" crc="4211543653" ref="index:virus:virus_slide:lie:prop">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u12906-4.png" crc="4051816889" ref="index"/>
@@ -40,8 +42,10 @@
     <file name="u15323-4.png" crc="4170418279" ref="index"/>
     <file name="u15326-4.png" crc="514547615" ref="index"/>
     <file name="u15328-4.png" crc="13617910" ref="index"/>
-    <file name="1506037543_3050-krab.gif" crc="166686763" seo="true" ref="index">
+    <file name="1506037543_3050-krab.gif" crc="166686763" seo="true" ref="index:lie:prop">
       <caption webpage="index" alt=""/>
+      <caption webpage="lie" alt=""/>
+      <caption webpage="prop" alt=""/>
     </file>
     <file name="u15376-4.png" crc="402481385" ref="index"/>
     <file name="virus-favicon.ico" crc="31782159" ref="virus"/>
@@ -114,8 +118,48 @@
     <file name="вставленное изображение 267x168.jpg" crc="252533885" seo="true" ref="virus_slide">
       <caption webpage="virus_slide" alt=""/>
     </file>
+    <file name="lie-favicon.ico" crc="31782159" ref="lie"/>
+    <file name="u18139-4.png" crc="4051816889" ref="lie"/>
+    <file name="u17886-4.png" crc="196339673" ref="lie"/>
+    <file name="u17928-4.png" crc="238331693" ref="lie"/>
+    <file name="u17956-4.png" crc="159045675" ref="lie"/>
+    <file name="u17808-4.png" crc="4150944692" ref="lie"/>
+    <file name="u17833-4.png" crc="406010006" ref="lie"/>
+    <file name="u17852-4.png" crc="3910330630" ref="lie"/>
+    <file name="u17871-4.png" crc="4183851234" ref="lie"/>
+    <file name="u17890-4.png" crc="43350429" ref="lie"/>
+    <file name="u17903-4.png" crc="4219207353" ref="lie"/>
+    <file name="u17923-4.png" crc="3991055773" ref="lie"/>
+    <file name="u17943-4.png" crc="238601585" ref="lie"/>
+    <file name="u17813-4.png" crc="3794203099" ref="lie"/>
+    <file name="u17828-4.png" crc="23180399" ref="lie"/>
+    <file name="u17842-4.png" crc="4170418279" ref="lie"/>
+    <file name="u17862-4.png" crc="514547615" ref="lie"/>
+    <file name="u17878-4.png" crc="13617910" ref="lie"/>
+    <file name="u17810-4.png" crc="416101399" ref="lie"/>
+    <file name="prop-favicon.ico" crc="31782159" ref="prop"/>
+    <file name="u18752-4.png" crc="4051816889" ref="prop"/>
+    <file name="u18811-4.png" crc="196339673" ref="prop"/>
+    <file name="u18850-4.png" crc="238331693" ref="prop"/>
+    <file name="u18951-4.png" crc="159045675" ref="prop"/>
+    <file name="u18862-4.png" crc="4150944692" ref="prop"/>
+    <file name="u18853-4.png" crc="406010006" ref="prop"/>
+    <file name="u18944-4.png" crc="3910330630" ref="prop"/>
+    <file name="u18958-4.png" crc="4183851234" ref="prop"/>
+    <file name="u18776-4.png" crc="43350429" ref="prop"/>
+    <file name="u18841-4.png" crc="4219207353" ref="prop"/>
+    <file name="u18931-4.png" crc="3991055773" ref="prop"/>
+    <file name="u18858-4.png" crc="238601585" ref="prop"/>
+    <file name="u18760-4.png" crc="3794203099" ref="prop"/>
+    <file name="u18757-4.png" crc="23180399" ref="prop"/>
+    <file name="u18785-4.png" crc="4170418279" ref="prop"/>
+    <file name="u18920-4.png" crc="514547615" ref="prop"/>
+    <file name="u18836-4.png" crc="13617910" ref="prop"/>
+    <file name="u18916-4.png" crc="385856909" ref="prop"/>
   </folder>
-  <file name="index.html" crc="404260352" seo="true" mt="1551962844173" redirect="true"/>
+  <file name="index.html" crc="243790133" seo="true" mt="1552298694454" redirect="true"/>
   <file name="virus.html" crc="141519520" seo="true" mt="1552029265938" redirect="true"/>
-  <file name="virus_slide.html" crc="3795701030" seo="true" mt="1552027963376" redirect="true"/>
+  <file name="virus_slide.html" crc="3795701030" seo="true" mt="1552048447343" redirect="true"/>
+  <file name="lie.html" crc="4238800295" seo="true" mt="1552297011023" redirect="true"/>
+  <file name="prop.html" crc="4247124989" seo="true" mt="1552298673693" redirect="true"/>
 </manifest>
