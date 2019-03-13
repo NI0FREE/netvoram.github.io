@@ -1,20 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1552299150157">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ni0free.github.io" resolutions="1x" timestamp="1552468902818">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4139035676" ref="index"/>
-    <file name="virus.css" crc="169029602" ref="virus"/>
-    <file name="prop.css" crc="4014663159" ref="prop"/>
-    <file name="virus_slide.css" crc="4130767596" ref="virus_slide"/>
-    <file name="lie.css" crc="4060669369" ref="lie"/>
+    <file name="shop2.css" crc="77816114" ref="shop2"/>
+    <file name="lie.css" crc="1211980" ref="lie"/>
+    <file name="index.css" crc="4201051961" ref="index"/>
+    <file name="no_name11.css" crc="476704289" ref="no_name11"/>
+    <file name="shop4.css" crc="513624" ref="shop4"/>
+    <file name="prop.css" crc="3201576" ref="prop"/>
+    <file name="virus.css" crc="3795095545" ref="virus"/>
+    <file name="shop1.css" crc="4211184794" ref="shop1"/>
+    <file name="shop3.css" crc="308856588" ref="shop3"/>
+    <file name="shop.css" crc="3807379762" ref="shop"/>
+    <file name="virus_slide.css" crc="347802497" ref="virus_slide"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:virus:virus_slide:lie:prop"/>
-    <file name="museutils.js" crc="3803043152" ref="index:virus:virus_slide:lie:prop"/>
-    <file name="whatinput.js" crc="86476730" ref="index:virus:virus_slide:lie:prop"/>
-    <file name="museconfig.js" crc="380897831" ref="index:virus:virus_slide:lie:prop"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:virus:virus_slide:lie:prop"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:virus:virus_slide:lie:prop"/>
-    <file name="require.js" crc="4157109226" ref="index:virus:virus_slide:lie:prop"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4:no_name11"/>
+    <file name="museutils.js" crc="3803043152" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4:no_name11"/>
+    <file name="whatinput.js" crc="86476730" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4:no_name11"/>
+    <file name="museconfig.js" crc="380897831" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4:no_name11"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4:no_name11"/>
+    <file name="require.js" crc="4157109226" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4:no_name11"/>
     <file name="webpro.js" crc="242022427" ref="virus:virus_slide:lie:prop"/>
     <file name="musewpslideshow.js" crc="457073769" ref="virus:virus_slide:lie:prop"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="virus:virus_slide:lie:prop"/>
@@ -22,84 +28,88 @@
   </folder>
   <folder name="images">
     <file name="home_page-favicon.ico" crc="31782159" ref="index"/>
-    <file name="ывфыв.jpg" crc="4211543653" ref="index:virus:virus_slide:lie:prop">
+    <file name="ывфыв.jpg" crc="4211543653" ref="index:virus:virus_slide:lie:prop:shop:shop1:shop2:shop3:shop4">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u12906-4.png" crc="4051816889" ref="index"/>
-    <file name="u15210-4.png" crc="196339673" ref="index"/>
-    <file name="u15220-4.png" crc="238331693" ref="index"/>
-    <file name="u15229-4.png" crc="159045675" ref="index"/>
-    <file name="u15238-4.png" crc="4150944692" ref="index"/>
-    <file name="u15247-4.png" crc="406010006" ref="index"/>
-    <file name="u15251-4.png" crc="3910330630" ref="index"/>
-    <file name="u15254-4.png" crc="4183851234" ref="index"/>
-    <file name="u15256-4.png" crc="43350429" ref="index"/>
-    <file name="u15283-4.png" crc="4219207353" ref="index"/>
-    <file name="u15287-4.png" crc="3991055773" ref="index"/>
-    <file name="u15290-4.png" crc="238601585" ref="index"/>
-    <file name="u15292-4.png" crc="3794203099" ref="index"/>
-    <file name="u15319-4.png" crc="23180399" ref="index"/>
-    <file name="u15323-4.png" crc="4170418279" ref="index"/>
-    <file name="u15326-4.png" crc="514547615" ref="index"/>
-    <file name="u15328-4.png" crc="13617910" ref="index"/>
-    <file name="1506037543_3050-krab.gif" crc="166686763" seo="true" ref="index:lie:prop">
-      <caption webpage="index" alt=""/>
-      <caption webpage="lie" alt=""/>
+    <file name="u12906-4.png" crc="39876522" ref="index"/>
+    <file name="u15210-4.png" crc="341021293" ref="index"/>
+    <file name="u15220-4.png" crc="4222541744" ref="index"/>
+    <file name="u15229-4.png" crc="4277200510" ref="index"/>
+    <file name="u15238-4.png" crc="382871139" ref="index"/>
+    <file name="u15247-4.png" crc="23033701" ref="index"/>
+    <file name="u15251-4.png" crc="3817290799" ref="index"/>
+    <file name="u15254-4.png" crc="4173605321" ref="index"/>
+    <file name="u15256-4.png" crc="337228698" ref="index"/>
+    <file name="u15283-4.png" crc="4192981819" ref="index"/>
+    <file name="u15287-4.png" crc="169899631" ref="index"/>
+    <file name="u15290-4.png" crc="333033849" ref="index"/>
+    <file name="u15292-4.png" crc="3879531218" ref="index"/>
+    <file name="u15319-4.png" crc="3904045860" ref="index"/>
+    <file name="u15323-4.png" crc="216880739" ref="index"/>
+    <file name="u15326-4.png" crc="183890075" ref="index"/>
+    <file name="u15328-4.png" crc="237469079" ref="index"/>
+    <file name="1506037543_3050-krab.gif" crc="166686763" seo="true" ref="index:lie:prop:shop1:shop2:shop3:shop4">
       <caption webpage="prop" alt=""/>
+      <caption webpage="shop2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="shop3" alt=""/>
+      <caption webpage="shop4" alt=""/>
+      <caption webpage="lie" alt=""/>
+      <caption webpage="shop1" alt=""/>
     </file>
-    <file name="u15376-4.png" crc="402481385" ref="index"/>
+    <file name="u15376-4.png" crc="241393938" ref="index"/>
     <file name="virus-favicon.ico" crc="31782159" ref="virus"/>
-    <file name="u16227-4.png" crc="4051816889" ref="virus"/>
-    <file name="u16487-4.png" crc="196339673" ref="virus"/>
-    <file name="u16434-4.png" crc="238331693" ref="virus"/>
-    <file name="u16560-4.png" crc="159045675" ref="virus"/>
-    <file name="u16532-4.png" crc="4150944692" ref="virus"/>
-    <file name="u16478-4.png" crc="406010006" ref="virus"/>
-    <file name="u16460-4.png" crc="3910330630" ref="virus"/>
-    <file name="u16437-4.png" crc="4183851234" ref="virus"/>
-    <file name="u16431-4.png" crc="43350429" ref="virus"/>
-    <file name="u16495-4.png" crc="4219207353" ref="virus"/>
-    <file name="u16483-4.png" crc="3991055773" ref="virus"/>
-    <file name="u16443-4.png" crc="238601585" ref="virus"/>
-    <file name="u16425-4.png" crc="3794203099" ref="virus"/>
-    <file name="u16499-4.png" crc="23180399" ref="virus"/>
-    <file name="u16467-4.png" crc="4170418279" ref="virus"/>
-    <file name="u16449-4.png" crc="514547615" ref="virus"/>
-    <file name="u16418-4.png" crc="13617910" ref="virus"/>
-    <file name="u16404-4.png" crc="3759323721" ref="virus"/>
+    <file name="u16227-4.png" crc="39876522" ref="virus"/>
+    <file name="u16487-4.png" crc="341021293" ref="virus"/>
+    <file name="u16434-4.png" crc="4222541744" ref="virus"/>
+    <file name="u16560-4.png" crc="4277200510" ref="virus"/>
+    <file name="u16532-4.png" crc="382871139" ref="virus"/>
+    <file name="u16478-4.png" crc="23033701" ref="virus"/>
+    <file name="u16460-4.png" crc="3817290799" ref="virus"/>
+    <file name="u16437-4.png" crc="4173605321" ref="virus"/>
+    <file name="u16431-4.png" crc="337228698" ref="virus"/>
+    <file name="u16495-4.png" crc="4192981819" ref="virus"/>
+    <file name="u16483-4.png" crc="169899631" ref="virus"/>
+    <file name="u16443-4.png" crc="333033849" ref="virus"/>
+    <file name="u16425-4.png" crc="3879531218" ref="virus"/>
+    <file name="u16499-4.png" crc="3904045860" ref="virus"/>
+    <file name="u16467-4.png" crc="216880739" ref="virus"/>
+    <file name="u16449-4.png" crc="183890075" ref="virus"/>
+    <file name="u16418-4.png" crc="237469079" ref="virus"/>
+    <file name="u16404-4.png" crc="4059888481" ref="virus"/>
     <file name="kompyuternyy-virus-animatsionnaya-kartinka-0001.gif" crc="284457387" seo="true" ref="virus">
       <caption webpage="virus" alt=""/>
     </file>
     <file name="ы662x287.jpg" crc="86345317" seo="true" ref="virus">
       <caption webpage="virus" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="virus"/>
+    <file name="blank.gif" crc="4208392903" ref="virus:shop:shop1:shop2:shop3:shop4"/>
     <file name="ы.jpg" crc="449275072" seo="true" ref="virus">
       <caption webpage="virus" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="virus"/>
     <file name="virus_slide-favicon.ico" crc="31782159" ref="virus_slide"/>
-    <file name="u17299-4.png" crc="4051816889" ref="virus_slide"/>
-    <file name="u17024-4.png" crc="196339673" ref="virus_slide"/>
-    <file name="u16918-4.png" crc="238331693" ref="virus_slide"/>
-    <file name="u17039-4.png" crc="3887716773" ref="virus_slide"/>
-    <file name="u17055-4.png" crc="4150944692" ref="virus_slide"/>
-    <file name="u16986-4.png" crc="406010006" ref="virus_slide"/>
-    <file name="u16959-4.png" crc="3910330630" ref="virus_slide"/>
-    <file name="u16946-4.png" crc="4183851234" ref="virus_slide"/>
-    <file name="u17065-4.png" crc="43350429" ref="virus_slide"/>
-    <file name="u16939-4.png" crc="4219207353" ref="virus_slide"/>
-    <file name="u17068-4.png" crc="3991055773" ref="virus_slide"/>
-    <file name="u17010-4.png" crc="238601585" ref="virus_slide"/>
-    <file name="u17003-4.png" crc="3794203099" ref="virus_slide"/>
-    <file name="u16974-4.png" crc="23180399" ref="virus_slide"/>
-    <file name="u16991-4.png" crc="4170418279" ref="virus_slide"/>
-    <file name="u17048-4.png" crc="514547615" ref="virus_slide"/>
-    <file name="u16955-4.png" crc="13617910" ref="virus_slide"/>
+    <file name="u17299-4.png" crc="39876522" ref="virus_slide"/>
+    <file name="u17024-4.png" crc="341021293" ref="virus_slide"/>
+    <file name="u16918-4.png" crc="4222541744" ref="virus_slide"/>
+    <file name="u17039-4.png" crc="257224423" ref="virus_slide"/>
+    <file name="u17055-4.png" crc="382871139" ref="virus_slide"/>
+    <file name="u16986-4.png" crc="23033701" ref="virus_slide"/>
+    <file name="u16959-4.png" crc="3817290799" ref="virus_slide"/>
+    <file name="u16946-4.png" crc="4173605321" ref="virus_slide"/>
+    <file name="u17065-4.png" crc="337228698" ref="virus_slide"/>
+    <file name="u16939-4.png" crc="4192981819" ref="virus_slide"/>
+    <file name="u17068-4.png" crc="169899631" ref="virus_slide"/>
+    <file name="u17010-4.png" crc="333033849" ref="virus_slide"/>
+    <file name="u17003-4.png" crc="3879531218" ref="virus_slide"/>
+    <file name="u16974-4.png" crc="3904045860" ref="virus_slide"/>
+    <file name="u16991-4.png" crc="216880739" ref="virus_slide"/>
+    <file name="u17048-4.png" crc="183890075" ref="virus_slide"/>
+    <file name="u16955-4.png" crc="237469079" ref="virus_slide"/>
     <file name="anti virus.gif" crc="30517710" seo="true" ref="virus_slide">
       <caption webpage="virus_slide" alt=""/>
     </file>
-    <file name="u16940-4.png" crc="4081925902" ref="virus_slide"/>
+    <file name="u16940-4.png" crc="3857443731" ref="virus_slide"/>
     <file name="вставленное изображение 400x268.jpg" crc="159407963" seo="true" ref="virus_slide">
       <caption webpage="virus_slide" alt=""/>
     </file>
@@ -119,47 +129,164 @@
       <caption webpage="virus_slide" alt=""/>
     </file>
     <file name="lie-favicon.ico" crc="31782159" ref="lie"/>
-    <file name="u18139-4.png" crc="4051816889" ref="lie"/>
-    <file name="u17886-4.png" crc="196339673" ref="lie"/>
-    <file name="u17928-4.png" crc="238331693" ref="lie"/>
-    <file name="u17956-4.png" crc="159045675" ref="lie"/>
-    <file name="u17808-4.png" crc="4150944692" ref="lie"/>
-    <file name="u17833-4.png" crc="406010006" ref="lie"/>
-    <file name="u17852-4.png" crc="3910330630" ref="lie"/>
-    <file name="u17871-4.png" crc="4183851234" ref="lie"/>
-    <file name="u17890-4.png" crc="43350429" ref="lie"/>
-    <file name="u17903-4.png" crc="4219207353" ref="lie"/>
-    <file name="u17923-4.png" crc="3991055773" ref="lie"/>
-    <file name="u17943-4.png" crc="238601585" ref="lie"/>
-    <file name="u17813-4.png" crc="3794203099" ref="lie"/>
-    <file name="u17828-4.png" crc="23180399" ref="lie"/>
-    <file name="u17842-4.png" crc="4170418279" ref="lie"/>
-    <file name="u17862-4.png" crc="514547615" ref="lie"/>
-    <file name="u17878-4.png" crc="13617910" ref="lie"/>
-    <file name="u17810-4.png" crc="416101399" ref="lie"/>
+    <file name="u18139-4.png" crc="39876522" ref="lie"/>
+    <file name="u17886-4.png" crc="341021293" ref="lie"/>
+    <file name="u17928-4.png" crc="4222541744" ref="lie"/>
+    <file name="u17956-4.png" crc="4277200510" ref="lie"/>
+    <file name="u17808-4.png" crc="382871139" ref="lie"/>
+    <file name="u17833-4.png" crc="23033701" ref="lie"/>
+    <file name="u17852-4.png" crc="3817290799" ref="lie"/>
+    <file name="u17871-4.png" crc="4173605321" ref="lie"/>
+    <file name="u17890-4.png" crc="337228698" ref="lie"/>
+    <file name="u17903-4.png" crc="4192981819" ref="lie"/>
+    <file name="u17923-4.png" crc="169899631" ref="lie"/>
+    <file name="u17943-4.png" crc="333033849" ref="lie"/>
+    <file name="u17813-4.png" crc="3879531218" ref="lie"/>
+    <file name="u17828-4.png" crc="3904045860" ref="lie"/>
+    <file name="u17842-4.png" crc="216880739" ref="lie"/>
+    <file name="u17862-4.png" crc="183890075" ref="lie"/>
+    <file name="u17878-4.png" crc="237469079" ref="lie"/>
+    <file name="u17810-4.png" crc="3897911299" ref="lie"/>
     <file name="prop-favicon.ico" crc="31782159" ref="prop"/>
-    <file name="u18752-4.png" crc="4051816889" ref="prop"/>
-    <file name="u18811-4.png" crc="196339673" ref="prop"/>
-    <file name="u18850-4.png" crc="238331693" ref="prop"/>
-    <file name="u18951-4.png" crc="159045675" ref="prop"/>
-    <file name="u18862-4.png" crc="4150944692" ref="prop"/>
-    <file name="u18853-4.png" crc="406010006" ref="prop"/>
-    <file name="u18944-4.png" crc="3910330630" ref="prop"/>
-    <file name="u18958-4.png" crc="4183851234" ref="prop"/>
-    <file name="u18776-4.png" crc="43350429" ref="prop"/>
-    <file name="u18841-4.png" crc="4219207353" ref="prop"/>
-    <file name="u18931-4.png" crc="3991055773" ref="prop"/>
-    <file name="u18858-4.png" crc="238601585" ref="prop"/>
-    <file name="u18760-4.png" crc="3794203099" ref="prop"/>
-    <file name="u18757-4.png" crc="23180399" ref="prop"/>
-    <file name="u18785-4.png" crc="4170418279" ref="prop"/>
-    <file name="u18920-4.png" crc="514547615" ref="prop"/>
-    <file name="u18836-4.png" crc="13617910" ref="prop"/>
-    <file name="u18916-4.png" crc="385856909" ref="prop"/>
+    <file name="u18752-4.png" crc="39876522" ref="prop"/>
+    <file name="u18811-4.png" crc="341021293" ref="prop"/>
+    <file name="u18850-4.png" crc="4222541744" ref="prop"/>
+    <file name="u18951-4.png" crc="4277200510" ref="prop"/>
+    <file name="u18862-4.png" crc="382871139" ref="prop"/>
+    <file name="u18853-4.png" crc="23033701" ref="prop"/>
+    <file name="u18944-4.png" crc="3817290799" ref="prop"/>
+    <file name="u18958-4.png" crc="4173605321" ref="prop"/>
+    <file name="u18776-4.png" crc="337228698" ref="prop"/>
+    <file name="u18841-4.png" crc="4192981819" ref="prop"/>
+    <file name="u18931-4.png" crc="169899631" ref="prop"/>
+    <file name="u18858-4.png" crc="333033849" ref="prop"/>
+    <file name="u18760-4.png" crc="3879531218" ref="prop"/>
+    <file name="u18757-4.png" crc="3904045860" ref="prop"/>
+    <file name="u18785-4.png" crc="216880739" ref="prop"/>
+    <file name="u18920-4.png" crc="183890075" ref="prop"/>
+    <file name="u18836-4.png" crc="237469079" ref="prop"/>
+    <file name="u18916-4.png" crc="280204290" ref="prop"/>
+    <file name="shop-favicon.ico" crc="31782159" ref="shop"/>
+    <file name="u19727-4.png" crc="39876522" ref="shop"/>
+    <file name="u19615-4.png" crc="341021293" ref="shop"/>
+    <file name="u19686-4.png" crc="4222541744" ref="shop"/>
+    <file name="u19626-4.png" crc="4277200510" ref="shop"/>
+    <file name="u19605-4.png" crc="382871139" ref="shop"/>
+    <file name="u19710-4.png" crc="23033701" ref="shop"/>
+    <file name="u19607-4.png" crc="3817290799" ref="shop"/>
+    <file name="u19597-4-a.png" crc="4173605321" ref="shop"/>
+    <file name="u19693-4.png" crc="337228698" ref="shop"/>
+    <file name="u19668-4.png" crc="4192981819" ref="shop"/>
+    <file name="u19647-4.png" crc="169899631" ref="shop"/>
+    <file name="u19628-4.png" crc="333033849" ref="shop"/>
+    <file name="u19611-4.png" crc="3879531218" ref="shop"/>
+    <file name="u19717-4.png" crc="3904045860" ref="shop"/>
+    <file name="u19652-4.png" crc="216880739" ref="shop"/>
+    <file name="u19595-4.png" crc="183890075" ref="shop"/>
+    <file name="u19696-4.png" crc="237469079" ref="shop"/>
+    <file name="rayo-y-relampago-imagen-animada-0014.gif" crc="4006078684" seo="true" ref="shop">
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="u19645-4.png" crc="460893795" ref="shop"/>
+    <file name="shop1-favicon.ico" crc="31782159" ref="shop1"/>
+    <file name="u20080-4.png" crc="39876522" ref="shop1"/>
+    <file name="u20382-4.png" crc="341021293" ref="shop1"/>
+    <file name="u20269-4.png" crc="4222541744" ref="shop1"/>
+    <file name="u20361-4.png" crc="4277200510" ref="shop1"/>
+    <file name="u20321-4.png" crc="382871139" ref="shop1"/>
+    <file name="u20379-4.png" crc="23033701" ref="shop1"/>
+    <file name="u20369-4.png" crc="3817290799" ref="shop1"/>
+    <file name="u20301-4.png" crc="4173605321" ref="shop1"/>
+    <file name="u20408-4.png" crc="337228698" ref="shop1"/>
+    <file name="u20354-4.png" crc="4192981819" ref="shop1"/>
+    <file name="u20398-4.png" crc="169899631" ref="shop1"/>
+    <file name="u20332-4.png" crc="333033849" ref="shop1"/>
+    <file name="u20287-4.png" crc="3879531218" ref="shop1"/>
+    <file name="u20297-4.png" crc="3904045860" ref="shop1"/>
+    <file name="u20316-4.png" crc="216880739" ref="shop1"/>
+    <file name="u20272-4.png" crc="183890075" ref="shop1"/>
+    <file name="u20343-4.png" crc="237469079" ref="shop1"/>
+    <file name="u20401-4.png" crc="460893795" ref="shop1"/>
+    <file name="u20433-17.png" crc="3964983909" ref="shop1"/>
+    <file name="shop2-favicon.ico" crc="31782159" ref="shop2"/>
+    <file name="u20634-4.png" crc="39876522" ref="shop2"/>
+    <file name="u20786-4.png" crc="341021293" ref="shop2"/>
+    <file name="u20727-4.png" crc="4222541744" ref="shop2"/>
+    <file name="u20762-4.png" crc="4277200510" ref="shop2"/>
+    <file name="u20736-4.png" crc="382871139" ref="shop2"/>
+    <file name="u20669-4.png" crc="23033701" ref="shop2"/>
+    <file name="u20784-4.png" crc="3817290799" ref="shop2"/>
+    <file name="u20718-4.png" crc="4173605321" ref="shop2"/>
+    <file name="u20757-4.png" crc="337228698" ref="shop2"/>
+    <file name="u20767-4.png" crc="4192981819" ref="shop2"/>
+    <file name="u20792-4.png" crc="169899631" ref="shop2"/>
+    <file name="u20709-4.png" crc="333033849" ref="shop2"/>
+    <file name="u20656-4.png" crc="3879531218" ref="shop2"/>
+    <file name="u20770-4.png" crc="3904045860" ref="shop2"/>
+    <file name="u20660-4.png" crc="216880739" ref="shop2"/>
+    <file name="u20666-4.png" crc="183890075" ref="shop2"/>
+    <file name="u20714-4.png" crc="237469079" ref="shop2"/>
+    <file name="u20704-4.png" crc="460893795" ref="shop2"/>
+    <file name="u20640-9.png" crc="379876524" ref="shop2"/>
+    <file name="shop3-favicon.ico" crc="31782159" ref="shop3"/>
+    <file name="u21008-4.png" crc="39876522" ref="shop3"/>
+    <file name="u21160-4.png" crc="341021293" ref="shop3"/>
+    <file name="u21101-4.png" crc="4222541744" ref="shop3"/>
+    <file name="u21136-4.png" crc="4277200510" ref="shop3"/>
+    <file name="u21110-4.png" crc="382871139" ref="shop3"/>
+    <file name="u21043-4.png" crc="23033701" ref="shop3"/>
+    <file name="u21158-4.png" crc="3817290799" ref="shop3"/>
+    <file name="u21092-4.png" crc="4173605321" ref="shop3"/>
+    <file name="u21131-4.png" crc="337228698" ref="shop3"/>
+    <file name="u21141-4.png" crc="4192981819" ref="shop3"/>
+    <file name="u21166-4.png" crc="169899631" ref="shop3"/>
+    <file name="u21083-4.png" crc="333033849" ref="shop3"/>
+    <file name="u21030-4.png" crc="3879531218" ref="shop3"/>
+    <file name="u21144-4.png" crc="3904045860" ref="shop3"/>
+    <file name="u21034-4.png" crc="216880739" ref="shop3"/>
+    <file name="u21040-4.png" crc="183890075" ref="shop3"/>
+    <file name="u21088-4.png" crc="237469079" ref="shop3"/>
+    <file name="u21078-4.png" crc="460893795" ref="shop3"/>
+    <file name="u21014-5.png" crc="516064263" ref="shop3"/>
+    <file name="shop4-favicon.ico" crc="31782159" ref="shop4"/>
+    <file name="u21195-4.png" crc="39876522" ref="shop4"/>
+    <file name="u21279-4.png" crc="341021293" ref="shop4"/>
+    <file name="u21235-4.png" crc="4222541744" ref="shop4"/>
+    <file name="u21328-4.png" crc="4277200510" ref="shop4"/>
+    <file name="u21250-4.png" crc="382871139" ref="shop4"/>
+    <file name="u21351-4.png" crc="23033701" ref="shop4"/>
+    <file name="u21344-4.png" crc="3817290799" ref="shop4"/>
+    <file name="u21240-4.png" crc="4173605321" ref="shop4"/>
+    <file name="u21362-4.png" crc="337228698" ref="shop4"/>
+    <file name="u21331-4.png" crc="4192981819" ref="shop4"/>
+    <file name="u21247-4.png" crc="169899631" ref="shop4"/>
+    <file name="u21294-4.png" crc="333033849" ref="shop4"/>
+    <file name="u21312-4.png" crc="3879531218" ref="shop4"/>
+    <file name="u21267-4.png" crc="3904045860" ref="shop4"/>
+    <file name="u21303-4.png" crc="216880739" ref="shop4"/>
+    <file name="u21316-4.png" crc="183890075" ref="shop4"/>
+    <file name="u21338-4.png" crc="237469079" ref="shop4"/>
+    <file name="u21252-4.png" crc="460893795" ref="shop4"/>
+    <file name="u21207-26.png" crc="4276371607" ref="shop4"/>
+    <file name="heat.gif" crc="4120837077" seo="true" ref="no_name11">
+      <caption webpage="no_name11" alt=""/>
+    </file>
+    <file name="giphy.gif" crc="4149289864" seo="true" ref="no_name11">
+      <caption webpage="no_name11" alt=""/>
+      <caption webpage="no_name11" alt=""/>
+      <caption webpage="no_name11" alt=""/>
+      <caption webpage="no_name11" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="243790133" seo="true" mt="1552298694454" redirect="true"/>
-  <file name="virus.html" crc="141519520" seo="true" mt="1552029265938" redirect="true"/>
-  <file name="virus_slide.html" crc="3795701030" seo="true" mt="1552048447343" redirect="true"/>
-  <file name="lie.html" crc="4238800295" seo="true" mt="1552297011023" redirect="true"/>
-  <file name="prop.html" crc="4247124989" seo="true" mt="1552298673693" redirect="true"/>
+  <file name="index.html" crc="321552018" seo="true" mt="1552468072484" redirect="true"/>
+  <file name="virus.html" crc="282755593" seo="true" mt="1552468097805" redirect="true"/>
+  <file name="virus_slide.html" crc="521876383" seo="true" mt="1552404208972" redirect="true"/>
+  <file name="lie.html" crc="3993131451" seo="true" mt="1552468110164" redirect="true"/>
+  <file name="prop.html" crc="4273600091" seo="true" mt="1552468119529" redirect="true"/>
+  <file name="shop.html" crc="3886741348" seo="true" mt="1552468721427" redirect="true"/>
+  <file name="shop1.html" crc="194650351" seo="true" mt="1552467992350" redirect="true"/>
+  <file name="shop2.html" crc="65514950" seo="true" mt="1552467975631" redirect="true"/>
+  <file name="shop3.html" crc="70027138" seo="true" mt="1552467950316" redirect="true"/>
+  <file name="shop4.html" crc="512696582" seo="true" mt="1552467919357" redirect="true"/>
+  <file name="no_name11.html" crc="3987377442" seo="true" mt="1552468839705" redirect="true"/>
 </manifest>

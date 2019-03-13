@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ni0free.github.io/index.html</loc>
-    <lastmod>2019-03-11</lastmod>
+    <lastmod>2019-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://ni0free.github.io/virus.html</loc>
-    <lastmod>2019-03-08</lastmod>
+    <lastmod>2019-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://ni0free.github.io/virus_slide.html</loc>
-    <lastmod>2019-03-08</lastmod>
+    <lastmod>2019-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,7 +53,7 @@
   </url>
   <url>
     <loc>http://ni0free.github.io/lie.html</loc>
-    <lastmod>2019-03-11</lastmod>
+    <lastmod>2019-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -62,11 +62,68 @@
   </url>
   <url>
     <loc>http://ni0free.github.io/prop.html</loc>
-    <lastmod>2019-03-11</lastmod>
+    <lastmod>2019-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ni0free.github.io/images/1506037543_3050-krab.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/shop.html</loc>
+    <lastmod>2019-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/rayo-y-relampago-imagen-animada-0014.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/shop1.html</loc>
+    <lastmod>2019-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/1506037543_3050-krab.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/shop2.html</loc>
+    <lastmod>2019-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/1506037543_3050-krab.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/shop3.html</loc>
+    <lastmod>2019-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/1506037543_3050-krab.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/shop4.html</loc>
+    <lastmod>2019-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/1506037543_3050-krab.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ni0free.github.io/no_name11.html</loc>
+    <lastmod>2019-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/heat.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ni0free.github.io/images/giphy.gif</image:loc>
     </image:image>
   </url>
 </urlset>
